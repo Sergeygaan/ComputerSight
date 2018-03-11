@@ -1,0 +1,3 @@
+C:\Users\Sergey\Desktop\магистратура\Семестр 1\Нирс\Лица\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergey\Desktop\магистратура\Семестр 1\Нирс\Лица\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergey\Desktop\магистратура\Семестр 1\Нирс\Лица\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
